@@ -1,0 +1,11 @@
+{
+  "org": "colcon",
+  "repo": "colcon-notification",
+  "versions": [
+    {
+      "commit": "0401c0ed04e104e7693a9f697d6d4c027c338895",
+      "tag": "0.3.3",
+      "parsed_at": "2026-10-17T23:11:43.898612+00:00"
+    }
+  ]
+}
